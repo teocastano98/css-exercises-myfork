@@ -1,0 +1,19 @@
+.impar-number{
+    background-color: rgb(255, 167, 167);
+    font-family: verdana, "Dejavy Sans", sans-serif;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+.number_size{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

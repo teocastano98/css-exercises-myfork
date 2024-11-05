@@ -19,6 +19,11 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
+      "anilkumarum.live-preview-server"
+      "enkia.tokyo-night"
+      "mhutchie.git-graph"
+      "ms-vscode.live-server"
+      "ritwickdey.LiveServer"
     ];
 
     # Enable previews
